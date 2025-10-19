@@ -151,7 +151,8 @@ print(men_stepped_on_the_moon)
 
 
 ## Output
-![WhatsApp Image 2025-10-14 at 20 10 53_49351962](https://github.com/user-attachments/assets/c4567a52-1c40-4a39-81ae-7d220ce434b2)
+<img width="657" height="147" alt="image" src="https://github.com/user-attachments/assets/2ea4742f-0917-4caf-a139-a238ef7097b0" />
+
 
 
 ## Result
